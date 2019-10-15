@@ -1,11 +1,14 @@
 {
   "name": "y",
-  "version": "y",
+  "version": "0.0.1",
   "description": "Contact Manager Application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "clientinstall": "npm install --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\" "
   },
   "author": "shruti kotian",
   "license": "MIT",
