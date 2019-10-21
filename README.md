@@ -8,6 +8,5 @@ https://sleepy-harbor-65346.herokuapp.com/
 
 #Gif of app
 
-<a href="https://imgflip.com/gif/3dylkl"><img src="https://i.imgflip.com/3dylkl.gif" title="made at imgflip.com"/></a>
-
+![contact_manager.gif](/contact_manager.gif)
 
