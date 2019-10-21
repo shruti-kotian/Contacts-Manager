@@ -8,6 +8,6 @@ https://sleepy-harbor-65346.herokuapp.com/
 
 #Gif of app
 
-![](file:///Users/shrutikotian/Desktop/contact_manager.gif)
+![](file://Users/shrutikotian/Desktop/contact_manager.gif)
 
 
