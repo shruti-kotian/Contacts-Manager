@@ -6,11 +6,6 @@ App has been deployed using Heroku
 #Live Demo of application:
 https://sleepy-harbor-65346.herokuapp.com/
 
-#Screenshots of database (Mongo Atlas)
-
-![](file:///Users/shrutikotian/Desktop/contactmanager_mongo1.png)
-![](file:///Users/shrutikotian/Desktop/contactmanager_mongo2.png)
-
 #Gif of app
 
 ![](file:///Users/shrutikotian/Desktop/contact_manager.gif)
