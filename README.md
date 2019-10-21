@@ -8,6 +8,6 @@ https://sleepy-harbor-65346.herokuapp.com/
 
 #Gif of app
 
-![](file://Users/shrutikotian/Desktop/contact_manager.gif)
+<a href="https://imgflip.com/gif/3dylkl"><img src="https://i.imgflip.com/3dylkl.gif" title="made at imgflip.com"/></a>
 
 
