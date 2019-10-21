@@ -7,7 +7,9 @@ App has been deployed using Heroku
 https://sleepy-harbor-65346.herokuapp.com/
 
 # Screenshots of database (MongoDB Atlas)
+
 ![contactmanager_mongo1.png](/contactmanager_mongo1.png)
+
 ![contactmanager_mongo2.png](/contactmanager_mongo2.png)
 
 #Gif of app
