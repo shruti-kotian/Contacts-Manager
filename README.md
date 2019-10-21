@@ -4,7 +4,7 @@ React app to manage (Add, delete, update, clear, filter) contacts using Context 
 App has been deployed using Heroku
 
 #Live Demo of application:
-https://git.heroku.com/sleepy-harbor-65346.git
+https://sleepy-harbor-65346.herokuapp.com/
 
 #Screenshots of database (Mongo Atlas)
 ![](file:///Users/shrutikotian/Desktop/contactmanager_mongo1.png)
